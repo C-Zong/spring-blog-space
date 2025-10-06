@@ -1,5 +1,21 @@
 # DevDiary
 
+## Oct 5, 2025
+
+```PowerShell
+npm install next-themes
+npm install lucide-react
+npm install motion
+```
+
+### What I did (10/05)
+
+- Wrote a theme toggle
+
+### Thoughts (10/05)
+
+- Cool! Love the animation! More powerful than bootstrap!
+
 ## Sep 28, 2025 (Note2)
 
 ```PowerShell
@@ -25,18 +41,18 @@ Rich Text Editor: TipTap (for users to write blog posts)
 
 ## Sep 28, 2025 (Note1)
 
-### What I did
+### What I did (09/28)
 
 - Installed Node.js → ran `npm create vite@latest .` → React + TypeScript + React Compiler
 - Tried setting up **Tailwind CSS** (ran into issues)
 
-### Problems I hit
+### Problems I hit (09/28)
 
 - Messed around uninstalling Node.js from D drive and reinstalling on C drive
 - Downloaded `tailwindcss-windows-x64.exe` (turns out that was useless)
 - Learned that `npx tailwindcss init -p` is outdated
 
-### Thoughts
+### Thoughts (09/28)
 
 - I really hate environment setup — most of the time I don’t know what the commands actually do, so I just *pray* the instructions are correct
 - Lesson learned: next time I’ll check the official docs first
