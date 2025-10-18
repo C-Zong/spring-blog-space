@@ -1,5 +1,15 @@
 # DevDiary
 
+## Oct 18, 2025
+
+### What I did (10/18)
+
+- Worked on the HTML header
+
+### Thoughts (10/18)
+
+- Progress was a bit slow. I had planned to finish the front end, but I ended up taking the whole break to relax. Hopefully, I can finish the project after winter break &#x1F642;
+
 ## Oct 5, 2025
 
 ```PowerShell
@@ -14,7 +24,7 @@ npm install motion
 
 ### Thoughts (10/05)
 
-- Cool! Love the animation! More powerful than bootstrap!
+- Cool! Love the animation!
 
 ## Sep 28, 2025 (Note2)
 

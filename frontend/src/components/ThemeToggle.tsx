@@ -13,10 +13,10 @@ export default function ThemeToggle() {
   const isDark = theme === 'dark';
   return (
     <button
+      aria-label="Toggle Theme"
       onClick={() => setTheme(isDark ? 'light' : 'dark')}
-      className="p-2 rounded-full bg-gray-200 hover:bg-gray-300 
-        dark:bg-gray-800 dark:hover:bg-gray-700
-        transition-colors duration-300 ease-in-out"
+      className="p-2 rounded-full toolbar
+        cursor-pointer transition-all duration-[var(--anim-duration)] ease-in-out"
     >
       <AnimatePresence mode="wait" initial={false}>
         {isDark ? (
